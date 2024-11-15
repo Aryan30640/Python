@@ -6,3 +6,4 @@ print("the table of", n, "is:")
 #If 'n' is the last term in loop then range ends with n + 1.
 for i in range(1, 11):
     print(n*i)
+print("Exiting")
