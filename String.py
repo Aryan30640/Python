@@ -1,0 +1,11 @@
+str1 = "hello" + "world"
+print(len(str1))
+print(str1)
+print(str1[0])
+print(str1[0:5])
+print(str1[5:10])
+print(str1.endswith("d"))
+print(str1.capitalize())
+print(str1.replace("h", "H"))
+print(str1.find("world"))
+print("no. of 'o' is", str1.count("o"))
